@@ -1,7 +1,7 @@
 import React from "react";
-import Component from 'react';
+// import Component from 'react';
 
-class Corgi extends Component{
+class Corgi{
     render(){
         return(
             <div>
@@ -10,3 +10,5 @@ class Corgi extends Component{
         )
     }
 }
+
+export default Corgi
